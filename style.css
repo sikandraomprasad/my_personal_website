@@ -1,0 +1,11 @@
+body{text-align: center};
+h1{font-size: 40px;}
+#app{width: 100%;
+height: 800px;
+background-color: dodgerblue;}
+#games{width: 100%;
+height: 800px;
+background-color: darkorchid;}
+#chatbot{width: 100%;
+height: 800px;
+background-color: yellow;}
